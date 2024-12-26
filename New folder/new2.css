@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Basic styling */
+.dolor1 {
+    text-align: center;
+    height: 300px;
+    background-color: aqua;
+}
+
+.book3 {
+    text-align: center;
+    background-color: aliceblue;
+    height: 100px;
+}
+
+.dolor3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.book4 {
+    background-color: tomato;
+    height: 600px;
+    text-align: center;
+    width: 50%;
+}
+
+.book5 {
+    background-color: black;
+    text-align: center;
+    height: 600px;
+    width: 50%;
+}
+
+.book6 {
+    background-color: yellowgreen;
+    height: 200px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    text-align: center;
+}
+
+.book7 {
+    border: 1px solid;
+    text-align: center;
+    background-color: turquoise;
+    height: 100px;
+}
+
+/* Mobile Responsive (max-width: 480px) */
+@media only screen and (max-width: 480px) {
+.dolor4{
+    
+    height: 300px;
+}
+          
+}
+
